@@ -7,8 +7,6 @@ build/
 *.log
 
 # Env files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -18,7 +16,6 @@ build/
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 *.swp
 
@@ -63,3 +60,4 @@ reports/
 # Issue workflow context
 .issue_context.md
 .pr_feedback.md
+config.bat
