@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1796-add-unit-tests-for-invoiceservice-js-pdf",
+    "fix/issue-1879-add-storybook-stories-for-disputewizard-and",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1796-add-unit-tests-for-invoiceservice-js-pdf": "main",
+    "fix/issue-1879-add-storybook-stories-for-disputewizard-and": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1796-add-unit-tests-for-invoiceservice-js-pdf",
+    "fix/issue-1879-add-storybook-stories-for-disputewizard-and",
+    "origin"
+  ]
+}
